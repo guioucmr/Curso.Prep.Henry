@@ -1,0 +1,22 @@
+<style>
+h1 {
+  color: black;
+}
+img {
+  width: 400px;
+}
+#thirdDiv{
+  height: 500px;
+  width: 600px;
+  background-color: red;
+  padding: 50px;
+  border: 7px solid rgb(3, 3, 3);
+}
+#spanId{
+  margin: 50px;
+  font-size: 18px;
+}
+
+</style>
+
+58.06
